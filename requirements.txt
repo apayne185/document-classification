@@ -1,0 +1,11 @@
+datasets
+kaggle
+PyMuPDF
+Pillow
+pytesseract
+opencv-python
+torch
+huggingface_hub
+transformers
+pandas
+numpy
